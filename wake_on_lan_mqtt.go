@@ -1,4 +1,4 @@
-package wakeonlanmqtt
+package main
 
 import (
 	"encoding/json"
